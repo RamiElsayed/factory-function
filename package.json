@@ -1,0 +1,27 @@
+{
+  "name": "factory-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiElsayed/factory-function.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiElsayed/factory-function/issues"
+  },
+  "homepage": "https://github.com/RamiElsayed/factory-function#readme",
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
